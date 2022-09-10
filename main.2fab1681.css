@@ -1,0 +1,2 @@
+body{margin:0;font-family:Arial,sans-serif;font-size:100px}.box{display:grid}@media (min-width:600px){.box{grid-template-columns:repeat(2,1fr)}}@media (min-width:900px){.box{grid-template-columns:repeat(3,1fr)}}.box__item{height:300px;display:grid;place-items:center;color:#fff}.box :first-child{background:red}.box :nth-child(2){background:#c00}.box :nth-child(3){background:#900}.box :nth-child(4){background:#600}.box :nth-child(5){background:#300}.box :nth-child(6){background:#000}
+/*# sourceMappingURL=main.2fab1681.css.map */
